@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/Introduction/1185818338_1791392340_223132457.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/Introduction/624642324_2919340033_851585252.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/Introduction/624642324_2868392171_2527044590.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/Introduction/624642324_1463826534_4131132508.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/Introduction/624642324_2919340033_2242172437.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/Introduction/624642324_1266527939_1965492763.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/Introduction/624642324_2919340033_3632999845.mp4'
