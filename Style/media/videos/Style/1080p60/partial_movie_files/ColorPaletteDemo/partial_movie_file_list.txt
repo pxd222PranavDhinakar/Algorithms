@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3529212410_3760709264_2358810818.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3040924799_784179552_635434811.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3040924799_288328286_3617301325.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3040924799_3749586519_1886265817.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3040924799_1763570929_2642416626.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3040924799_3628490559_3843022097.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3040924799_2262514389_375756608.mp4'
+file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Style/media/videos/Style/1080p60/partial_movie_files/ColorPaletteDemo/3040924799_784179552_3087285726.mp4'
