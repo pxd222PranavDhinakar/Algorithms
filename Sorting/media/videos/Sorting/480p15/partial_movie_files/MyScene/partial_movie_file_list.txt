@@ -1,3 +1,3 @@
 # This file is used internally by FFMPEG.
-file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/MyScene/1185818338_75951112_223132457.mp4'
-file 'file:/Users/pranavdhinakar/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/MyScene/624642324_784179552_1446721736.mp4'
+file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/MyScene/1185818338_3607281660_223132457.mp4'
+file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/480p15/partial_movie_files/MyScene/624642324_1141282389_2136968161.mp4'
