@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/1080p60/partial_movie_files/MyScene/3529212410_1210894275_223132457.mp4'
-file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/1080p60/partial_movie_files/MyScene/3040924799_3155025650_29012705.mp4'
-file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/1080p60/partial_movie_files/MyScene/3040924799_126111712_4013108969.mp4'
-file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/1080p60/partial_movie_files/MyScene/3040924799_3537503659_3873722553.mp4'
-file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/1080p60/partial_movie_files/MyScene/3040924799_2225408885_1246497425.mp4'
-file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/1080p60/partial_movie_files/MyScene/3040924799_65575013_901957781.mp4'
-file 'file:/home/pranav/Documents/Manim/Algorithms/Sorting/media/videos/Sorting/1080p60/partial_movie_files/MyScene/3040924799_1141282389_1895026411.mp4'
